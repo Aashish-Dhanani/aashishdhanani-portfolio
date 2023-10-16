@@ -1,0 +1,124 @@
+.project {
+    text-align: left;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-bottom: 6rem;
+}
+
+.portfolio {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+}
+
+/* .projectimgs {
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    max-width: 65rem;
+    padding: 0 1rem;
+    border-radius: 2rem;
+
+}
+
+.projectimg {
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
+    height: 10rem;
+    cursor: pointer;
+}
+
+.img1cap {
+} */
+
+.paper {
+    margin-bottom: 20px;
+    line-height: 1.2;
+    font-size: small;
+}
+
+.paper .button {
+    display: inline-block;
+    height: 20px;
+    padding: 0 5px;
+    font-weight: 100;
+    line-height: 20px;
+    margin-bottom: 0px;
+    text-transform: none;
+}
+
+b {
+    font-weight: bolder;
+}
+
+i {
+    font-style: italic;
+}
+
+h3 {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    /* background: white;
+    color: black;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    border-radius: 1rem;
+    cursor: pointer; */
+
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+
+    display: inline-block;
+    height: 20px;
+    padding: 0 5px;
+    font-weight: 100;
+    line-height: 20px;
+    margin-bottom: 0px;
+    text-transform: none;
+
+    
+}
+
+.btn:hover {
+    color: rgb(212, 6, 6);
+
+}
+
+.head {
+    margin-right: 0.5rem;
+    text-decoration: underline;
+}

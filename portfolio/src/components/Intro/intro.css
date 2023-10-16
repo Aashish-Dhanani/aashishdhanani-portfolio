@@ -1,0 +1,40 @@
+.pic {
+    height: 170px;
+    object-fit: contain;
+    max-width: 100%;
+    box-sizing: border-box;
+    float: left;
+    margin-right: 2rem;
+}
+
+.header {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+.linked {
+    height: 20px;
+    float: left;
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.github {
+    height: 20px;
+    cursor: pointer;
+}
+
+.tu {
+    font-size: x-small;
+}
+
+.em {
+    font-size: x-small;
+    margin-bottom: 0.5rem;
+}
+
+
+
+

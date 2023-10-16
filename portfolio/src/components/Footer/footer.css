@@ -1,0 +1,39 @@
+.footer {
+    width: 100vw;
+    height: 4rem;
+    background: rgb(40, 40, 40);
+    display: flex;
+    align-items: center; 
+    /*justify-content: center;  */
+    font-weight: 300;
+    font-size: small;
+}
+
+.name {
+    margin-left: 10%;
+    text-align: left;
+}
+
+.email {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.icons {
+    margin-right: 10%;
+    display: flex;
+    float: right;
+}
+
+.linked {
+    height: 20px;
+    float: left;
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.github {
+    height: 20px;
+    cursor: pointer;
+}
