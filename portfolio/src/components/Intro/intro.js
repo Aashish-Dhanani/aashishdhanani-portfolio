@@ -30,7 +30,7 @@ const Intro = () => {
                 className='github' 
                 alr='icongit'
                 onClick={() => {
-                    window.open('https://github.com/Aashish-Dhanani');
+                    window.open('https://github.com/aashishdhanani');
                 }}/>
           </p>
         </span>
